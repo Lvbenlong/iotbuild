@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-f212631e"],{"340d1":function(n,t,e){"use strict";var a=e("9295"),c=e.n(a);c.a},9295:function(n,t,e){},f982:function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"role"},[n._v("\n角色定义\n  ")])},c=[],u={name:"Role",data:function(){return{}}},r=u,s=(e("340d1"),e("2877")),i=Object(s["a"])(r,a,c,!1,null,"64a49684",null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-f212631e.7ee680b5.js.map
