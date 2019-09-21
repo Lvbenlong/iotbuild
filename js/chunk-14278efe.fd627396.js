@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-14278efe"],{"184a":function(n,t,e){"use strict";var a=e("a737"),c=e.n(a);c.a},a737:function(n,t,e){},eac5:function(n,t,e){"use strict";e.r(t);var a=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"equipment"},[n._v("\n批量导入NB设备\n  ")])},c=[],u={name:"Equipment",data:function(){return{}}},i=u,s=(e("184a"),e("2877")),r=Object(s["a"])(i,a,c,!1,null,"3932b8c6",null);t["default"]=r.exports}}]);
-//# sourceMappingURL=chunk-14278efe.fd627396.js.map
